@@ -7,7 +7,7 @@ import zipfile
 
 # Folder structure for the repo
 
-repo_name = "mint-bot-base"
+repo_name = "mint-bit-base"
 
 base_path = Path(f"/mnt/data/{repo_name}")
 
@@ -33,7 +33,7 @@ load_dotenv()
 
 
 
-RPC_URL = os.getenv("RPC_URL")
+RPC_URL = os.getenv("RPC_URL base mainnet")
 
 PRIVATE_KEY = os.getenv("PRIVATE_KEY")
 
