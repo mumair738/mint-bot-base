@@ -7,7 +7,7 @@ import zipfile
 
 # Folder structure for the repo
 
-repo_name = "mint-bot-base"
+repo_name1 = "mint-bot-base1"
 
 base_path = Path(f"/mnt/data/{repo_name}")
 
